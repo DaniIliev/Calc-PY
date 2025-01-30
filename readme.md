@@ -22,10 +22,8 @@ Installation and Usage:
 
     python calculator.py
 
-![Calculator Screenshot](/video/video/video-thumbnail.png)
-
 Video:
-[![Watch Calculator Demo](video//video/video-thumbnail.png)](https://drive.google.com/file/d/1MlqsTQoJYQHgfB-xwuHJlHPe2ygt1ugw/view?usp=drive_link)
+[![Watch Calculator Demo](video/video-thumbnail.png)](https://drive.google.com/file/d/1RQEtZQtGCCc10BvEfxOMxvccdCHMioiY/view?usp=drive_link)
 
 
 
