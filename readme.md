@@ -15,7 +15,7 @@ Ensure you have Python installed on your system. You can install the required de
 Installation and Usage:
 1. Clone this repository or download the source code:
    
-    git clone https://github.com/your-repository/tkinter-calculator.git
+    git clone https://github.com/DaniIliev/Calc-PY.git
     cd tkinter-calculator
 
 2. Run the Python script:
@@ -23,7 +23,7 @@ Installation and Usage:
     python calculator.py
 
 Video:
-![Calculator Demo](video/demo.mp4)
+![Calculator Demo](video/demo.mov)
 
 Contributing:
 Feel free to fork this repository and submit pull requests with improvements!
