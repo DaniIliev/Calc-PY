@@ -23,7 +23,7 @@ Installation and Usage:
     python calculator.py
 
 Video:
-![Calculator Demo](/demo.mp4)
+![Calculator Demo](/video/demo.mp4)
 
 Contributing:
 Feel free to fork this repository and submit pull requests with improvements!
