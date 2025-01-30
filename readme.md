@@ -23,7 +23,7 @@ Installation and Usage:
     python calculator.py
 
 Video:
-[🎥 Watch Calculator Demo](https://drive.google.com/file/d/1MlqsTQoJYQHgfB-xwuHJlHPe2ygt1ugw/view?usp=drive_link)
+[🎥 Watch Calculator Demo](/video/app.png)(https://drive.google.com/file/d/1MlqsTQoJYQHgfB-xwuHJlHPe2ygt1ugw/view?usp=drive_link)
 
 
 Contributing:
